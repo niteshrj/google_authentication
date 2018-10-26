@@ -1,7 +1,6 @@
 {
   "name": "googleauthentication",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +11,15 @@
   "dependencies": {
     "cookie-parser": "^1.4.3",
     "express": "^4.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niteshrj/google_authentication.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niteshrj/google_authentication/issues"
+  },
+  "homepage": "https://github.com/niteshrj/google_authentication#readme",
+  "description": ""
 }
